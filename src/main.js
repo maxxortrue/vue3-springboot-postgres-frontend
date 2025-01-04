@@ -1,4 +1,3 @@
-// src/main.js (or src/index.js)
 import { createApp } from 'vue'; // Import createApp from Vue 3
 import App from './App.vue'; // Import the root component
 import 'bootstrap'; // Import Bootstrap JS
